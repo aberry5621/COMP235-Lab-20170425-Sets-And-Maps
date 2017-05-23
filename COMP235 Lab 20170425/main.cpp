@@ -1,3 +1,5 @@
+
+
 #include <set>
 #include <map>
 #include <iterator> //for ostream_iterator
@@ -9,6 +11,9 @@ using namespace std;
 
 int main()
 {
+    /*
+     Part 1 (STL::set) Copy and paste this into your IDE. Extract words into a set, display the set.
+     */
     string gdp = { "GDP is commonly used as an indicator of the economic\
         health of a country, as well as a gauge of a country's \
         standard of living. Since the mode of measuring GDP is\

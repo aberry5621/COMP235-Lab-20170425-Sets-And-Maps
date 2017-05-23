@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E2100E911EB39718005D99A4"
-               BuildableName = "COMP235 Lab 20170425"
-               BlueprintName = "COMP235 Lab 20170425"
-               ReferencedContainer = "container:COMP235 Lab 20170425.xcodeproj">
+               BuildableName = "COMP235 Lab 20170425 Sets And Maps"
+               BlueprintName = "COMP235 Lab 20170425 Sets And Maps"
+               ReferencedContainer = "container:COMP235 Lab 20170425 Sets And Maps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2100E911EB39718005D99A4"
-            BuildableName = "COMP235 Lab 20170425"
-            BlueprintName = "COMP235 Lab 20170425"
-            ReferencedContainer = "container:COMP235 Lab 20170425.xcodeproj">
+            BuildableName = "COMP235 Lab 20170425 Sets And Maps"
+            BlueprintName = "COMP235 Lab 20170425 Sets And Maps"
+            ReferencedContainer = "container:COMP235 Lab 20170425 Sets And Maps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2100E911EB39718005D99A4"
-            BuildableName = "COMP235 Lab 20170425"
-            BlueprintName = "COMP235 Lab 20170425"
-            ReferencedContainer = "container:COMP235 Lab 20170425.xcodeproj">
+            BuildableName = "COMP235 Lab 20170425 Sets And Maps"
+            BlueprintName = "COMP235 Lab 20170425 Sets And Maps"
+            ReferencedContainer = "container:COMP235 Lab 20170425 Sets And Maps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2100E911EB39718005D99A4"
-            BuildableName = "COMP235 Lab 20170425"
-            BlueprintName = "COMP235 Lab 20170425"
-            ReferencedContainer = "container:COMP235 Lab 20170425.xcodeproj">
+            BuildableName = "COMP235 Lab 20170425 Sets And Maps"
+            BlueprintName = "COMP235 Lab 20170425 Sets And Maps"
+            ReferencedContainer = "container:COMP235 Lab 20170425 Sets And Maps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
